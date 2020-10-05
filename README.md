@@ -11,7 +11,9 @@ Created backup.sh using c/Users/solom/OneDrive/Desktop/UTSA instead of the direc
 
 Created welcome.sh
 
-Tried to update backup.sh but had issues where the echo wouldn't work and I had to force exit
+Tried to update backup.sh but had issues where the echo wouldn't work and I had to force exit. When I check the directory in file explorer, the tar.gz file is created.
 
-I was able to update backup.sh to remove the leading / message but I didn't fix the backup.sh
+I was able to update backup.sh to remove the stderr meessage but I didn't fix the backup.sh
+
+I updated backup.sh with the new code but it still made me force exit.
 
